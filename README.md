@@ -1,2 +1,2 @@
 # DataMan_LL
-Data Manipulation Using Linked Lists
+Used to manipulate data using linked lists. Supports insert,delete, search, bubblesort, reverse, k-group reverse, k from end operations.
